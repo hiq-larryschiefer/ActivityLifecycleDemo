@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActivityLifecycleDemo</string>
+    <string name="text_hint">Press the button to see a status update</string>
+    <string name="btn_label">Update Status</string>
+</resources>
